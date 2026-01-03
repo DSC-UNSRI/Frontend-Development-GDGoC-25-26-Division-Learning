@@ -6,7 +6,7 @@ import enjel from "@/assets/enjel.jpeg";
 import parel from "@/assets/parel.jpg";
 import atala from "@/assets/atala.jpg";
 import aulia from "@/assets/aulia.jpg";
-
+import rillah from "@/assets/rillah.jpg";
 import {
   Code2,
   Palette,
@@ -102,6 +102,7 @@ const members = [
     instagram: "instagram.com/_rillah",
     linkedin: "https://www.linkedin.com/in/duhairillah-690679281/",
     github: "github.com/SerenaaaaRN",
+    image: rillah,
   },
   {
     name: "Deza Arlian",
