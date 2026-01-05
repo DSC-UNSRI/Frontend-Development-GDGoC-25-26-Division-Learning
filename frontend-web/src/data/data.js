@@ -90,6 +90,7 @@ const members = [
     linkedin: "linkedin.com/in/afaizyr/ ",
     github: "github.com/FaizZzhue",
     image: faiz,
+    quote: "as always, late to the party",
   },
   {
     name: "Akbar Kurniawan",
@@ -99,6 +100,7 @@ const members = [
     linkedin: "linkedin.com/in/akbarkurnia1/",
     github: "github.com/akbar-kurnia1",
     image: akbar,
+    quote: "Every challenge is an opportunity to become better",
   },
   {
     name: "Duhairillah",
@@ -117,6 +119,7 @@ const members = [
     linkedin: "linkedin.com/in/dezaarlian/",
     github: "github.com/dezaarlian",
     image: deza,
+    quote: "kalo udah IZIN gapapa, atur se-Brengsek mungkin",
   },
   {
     name: "Aulia Mutiara Sari",
@@ -126,6 +129,7 @@ const members = [
     linkedin: "https://www.linkedin.com/in/aulia-mutiara-sari-513a7439a/",
     github: "https://github.com/auliamutiaraa",
     image: aulia,
+    quote: "A pretty mindset makes a pretty life.",
   },
   {
     name: "Anjelia Hidayat",
@@ -135,6 +139,7 @@ const members = [
     linkedin: "linkedin.com/in/anjelia-hidayat/",
     github: "https://github.com/enjeliaa",
     image: enjel,
+    quote: "ckptw",
   },
   {
     name: "Farrel Athaillah Wijaya",
@@ -144,6 +149,7 @@ const members = [
     linkedin: "linkedin.com/in/farrelaw/",
     github: "http://github.com/kokoparel",
     image: parel,
+    quote: "adalah pokoknya",
   },
   {
     name: "M Atala Daffa Alfaris",
