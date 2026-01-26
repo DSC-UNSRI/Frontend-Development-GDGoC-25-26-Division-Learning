@@ -19,4 +19,12 @@ const members = [
     github: "Kokoparel",
     linkedin: "farrelaw", // optional
   },
+  {
+    name: "Akbar Kurniawan",
+    major: "Physics",
+    batch: "2023",
+    role: "Member",
+    github: "akbar-kurnia1",
+    linkedin: "akbarkurnia1",
+  },
 ];
