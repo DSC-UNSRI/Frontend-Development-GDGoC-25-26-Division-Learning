@@ -20,6 +20,14 @@ const members = [
     linkedin: "farrelaw", // optional
   },
   {
+    name: "Aulia Mutiara Sari",
+    major: "Public Health",
+    batch: "2025",
+    role: "Member",
+    github: "auliamutiaraa",
+    linkedin: "aulia-mutiara-sari", // optional
+  },
+  {
     name: "M Atala Daffa Alfaris",
     major: "Informatics Engineering",
     batch: "2025",
