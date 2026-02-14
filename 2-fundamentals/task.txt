@@ -1,1 +1,2 @@
 1. M. Rabyndra = https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/2-fundamentals
+2. Parel = https://github.com/Kokoparel/FeMeet2
