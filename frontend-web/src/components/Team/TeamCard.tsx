@@ -71,17 +71,17 @@ const TeamCard = ({ member, index }: TeamCardProps) => {
 
       {/* Info */}
       <div className="p-5 pb-3">
-        <h3 className="font-display text-lg font-semibold mb-1 line-clamp-1">
+        <h3 className="font-display text-sm sm:text-lg font-semibold mb-1 line-clamp-1">
           {member.name}
         </h3>
-        <p className="text-muted-foreground text-sm mb-1">{member.major}</p>
+        <p className="text-muted-foreground text-xs sm:text-sm mb-1">{member.major}</p>
         <p className="text-muted-foreground text-xs mb-4">
           Batch {member.batch}
         </p>
 
         {/* Quote */}
         {member.quote && (
-          <div className="mb-4">
+          <div className="mb-4 hidden sm:block">
             <p className="text-xs italic text-muted-foreground">
               "{member.quote}"
             </p>

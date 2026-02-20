@@ -33,7 +33,7 @@ const CoreTeamSpotlight = ({ member }: CoreTeamSpotlightProps) => {
       <div className="relative grid md:grid-cols-5 gap-0 rounded-2xl overflow-hidden bg-card border border-border/50 shadow-sm">
         {/* Left: Image section */}
         <div className="md:col-span-2 relative overflow-hidden">
-          <div className="aspect-[3/4] md:aspect-auto md:h-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
+          <div className="aspect-[8/6] sm:aspect-[4/3] md:aspect-auto md:h-full bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
             {member.image ? (
               <img
                 src={member.image}
