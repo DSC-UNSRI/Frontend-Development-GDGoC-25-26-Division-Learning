@@ -1,1 +1,2 @@
 Ello Rabyndra = https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning
+Aulia = https://github.com/auliamutiaraa/Portofolio-React
