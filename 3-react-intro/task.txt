@@ -1,2 +1,3 @@
-Ello Rabyndra = https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning
-enjel = https://github.com/enjeliaa/birthday-greeting
+1. Ello Rabyndra = https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning
+2. Aulia = https://github.com/auliamutiaraa/Portofolio-React
+3. enjel = https://github.com/enjeliaa/birthday-greeting
