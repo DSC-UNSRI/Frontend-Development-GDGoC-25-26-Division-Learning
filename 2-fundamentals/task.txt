@@ -2,3 +2,4 @@
 2. Parel = https://github.com/Kokoparel/FeMeet2
 3. Aulia = https://github.com/auliamutiaraa/Portofolio-React
 4. enjel = https://github.com/enjeliaa/MyPortofolio
+5. faiz  = https://github.com/FaizZzhue/bisnis-rapi
