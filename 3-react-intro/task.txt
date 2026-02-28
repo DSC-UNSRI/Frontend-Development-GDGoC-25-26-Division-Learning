@@ -7,3 +7,4 @@
 7. Atala = https://github.com/AtalaaDf/first-react
 8. awan = https://github.com/awann-cloud/tic-tac-toe
 9. koko = https://github.com/Kokoparel/The-Witche-s-Epitaph
+10. Akbar = https://github.com/akbar-kurnia1/Akbar-Kurniawan
