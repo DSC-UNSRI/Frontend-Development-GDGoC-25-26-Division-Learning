@@ -4,3 +4,4 @@
 4. Rillah = https://github.com/SerenaaaaRN/linktree-task.git
 5. AKPrisma = https://github.com/ak7prisma/Card-Battle.git
 6. faiz = https:github.com/FaizZzhue/portofolioV3
+7. awan = https://github.com/awann-cloud/tic-tac-toe
