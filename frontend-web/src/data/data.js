@@ -12,6 +12,7 @@ import faiz from "@/assets/faiz.jpg";
 import github from "@/assets/github.png";
 import tailwind from "@/assets/tailwind.png";
 import react from "@/assets/react.png";
+import props from "@/assets/props.png";
 import {
   Code2,
   Palette,
@@ -20,6 +21,7 @@ import {
   Github,
   Instagram,
   Linkedin,
+  Layers,
 } from "lucide-react";
 
 const features = [
@@ -227,6 +229,18 @@ const learnings = [
     image: react,
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/3-react-intro",
+  },
+  {
+    icon: Layers,
+    title: "React Components & Props",
+    description:
+      "Learning materials cover functional components, props for data communication, and dynamic list rendering using the map() method.",
+    color: "google-green",
+    files:
+      "https://drive.google.com/file/d/1Kr02DWphkazli1440uKqApUBhxDabFnU/view?usp=sharing",
+    image: props,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/4-react-components-props",
   },
 ];
 
