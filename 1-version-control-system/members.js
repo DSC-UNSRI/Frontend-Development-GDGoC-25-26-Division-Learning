@@ -75,4 +75,12 @@ const members = [
     github: "FaizZzhue",
     linkedin: "afaizyr",
   },
+   {
+    name: "Nuredy Rahma Gunawan",
+    major: "Informatics Systems",
+    batch: "2024",
+    role: "Member",
+    github: "awann-cloud",
+    linkedin: "Nuredy Rahma Gunawan",
+  },
 ];
