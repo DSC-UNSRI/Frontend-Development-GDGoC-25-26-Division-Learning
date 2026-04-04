@@ -6,3 +6,4 @@
 6. faiz  = https://github.com/FaizZzhue/bisnis-rapi
 7. awan = https://github.com/awann-cloud/tic-tac-toe
 8. Akbar = https://github.com/akbar-kurnia1/Akbar-Kurniawan
+9. Deza = 
