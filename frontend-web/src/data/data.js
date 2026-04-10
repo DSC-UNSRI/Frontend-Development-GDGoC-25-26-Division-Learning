@@ -14,6 +14,7 @@ import tailwind from "@/assets/tailwind.png";
 import react from "@/assets/react.png";
 import props from "@/assets/props.png";
 import state from "@/assets/state.png";
+import form from "@/assets/form.png";
 
 import {
   Code2,
@@ -25,6 +26,7 @@ import {
   Linkedin,
   Layers,
   RefreshCw,
+  MousePointer2,
 } from "lucide-react";
 
 const features = [
@@ -257,6 +259,30 @@ const learnings = [
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/5-basic-state-management",
   },
+  {
+    icon: MousePointer2,
+    title: "Advanced State Patterns & Controlled Forms",
+    description:
+      "Learning materials cover Lifting State Up for data synchronization and the implementation of Controlled Components for form management.",
+    color: "google-red",
+    files:
+      "https://drive.google.com/file/d/1fG9chCAQ881oKClXGaIxWEfy5gnsUr77/view?usp=sharing",
+    image: form,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/6-controlled-form",
+  },
+  //   {
+  //   icon: icon_sesuai_materi,
+  //   title: "Advanced State Patterns & Controlled Forms",
+  //   description:
+  //     "isi deskripsinya, buatkan dalam bahasa inggris, singkat saja, ikuti referensi data sebelumnya",
+  //   color: "google-red",
+  //   files:
+  //     "https://drive.google.com/file/d/1fG9chCAQ881oKClXGaIxWEfy5gnsUr77/view?usp=sharing",
+  //   image: form,
+  //   github:
+  //     "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/6-controlled-form",
+  // },
 ];
 
 export { features, coreTeam, members, socialLinks, learnings };
