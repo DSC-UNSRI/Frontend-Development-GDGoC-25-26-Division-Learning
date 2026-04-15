@@ -15,6 +15,7 @@ import react from "@/assets/react.png";
 import props from "@/assets/props.png";
 import state from "@/assets/state.png";
 import form from "@/assets/form.png";
+import routing from "@/assets/routing.png";
 
 import {
   Code2,
@@ -27,6 +28,7 @@ import {
   Layers,
   RefreshCw,
   MousePointer2,
+  Map,
 } from "lucide-react";
 
 const features = [
@@ -270,6 +272,18 @@ const learnings = [
     image: form,
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/6-controlled-form",
+  },
+  {
+    icon: Map,
+    title: "Dynamic Routing & Single Page Navigation",
+    description:
+      "Learning materials cover React Router setup, defining dynamic routes with params, and implementing seamless single-page navigation using Link and NavLink.",
+    color: "google-yellow",
+    files:
+      "https://drive.google.com/file/d/1M8PbN_1VaIrF2mt5d5V7GB1Wuu8yfeX5/view?usp=sharing", 
+    image: routing,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/7-react-router",
   },
   //   {
   //   icon: icon_sesuai_materi,
