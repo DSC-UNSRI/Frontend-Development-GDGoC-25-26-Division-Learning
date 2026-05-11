@@ -1,6 +1,6 @@
 1. Prisma
 2. Deza
-3. Atala
+3. Atala : https://github.com/AtalaaDf/Project-UTS-FE
 4. Rillah : https://github.com/SerenaaaaRN/react-bookstore.git
 5. Faiz
 6. Awan
