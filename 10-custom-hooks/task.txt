@@ -4,7 +4,7 @@
 4. Rillah : https://github.com/SerenaaaaRN/react-bookstore.git
 5. Faiz : https://github.com/FaizZzhue/aura
 6. Awan : https://github.com/awann-cloud/utm-beasiswa
-7. Akbar: 
+7. Akbar: https://github.com/akbar-kurnia1/game-store
 8. Koko : 
 9. Enjel : 
 10. Aulia: 
