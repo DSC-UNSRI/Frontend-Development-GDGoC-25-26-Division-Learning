@@ -7,4 +7,4 @@
 7. Akbar: https://github.com/akbar-kurnia1/game-store
 8. Koko : https://github.com/Kokoparel/FilmTracker
 9. Enjel : https://github.com/enjeliaa/react-public-api-explorer
-10. Aulia: 
+10. Aulia: https://github.com/auliamutiaraa/Nutrition-Explorer-Midterm-exam-FE.git
