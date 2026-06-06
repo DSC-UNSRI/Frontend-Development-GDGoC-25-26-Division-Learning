@@ -1,5 +1,5 @@
 1. Prisma : https://github.com/ak7prisma/Card-Battle.git
-2. Deza: 
+2. Deza: https://github.com/Dezaarlian/react-public-api-explorer.git
 3. Atala : https://github.com/AtalaaDf/Project-UTS-FE
 4. Rillah : https://github.com/SerenaaaaRN/react-bookstore.git
 5. Faiz : https://github.com/FaizZzhue/aura
