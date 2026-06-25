@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-1. Prisma
-2. Deza     : https://github.com/Dezaarlian/react-public-api-explorer.git
-3. Atala
-4. Rillah   : https://github.com/SerenaaaaRN/react-bookstore.git
-5. Faiz
-6. Awan
-7. Akbar
-8. Koko
-9. Enjel
-10. Aulia
-=======
 1. Prisma : https://github.com/ak7prisma/Card-Battle.git
 2. Deza: https://github.com/Dezaarlian/react-public-api-explorer
 3. Atala : https://github.com/AtalaaDf/Project-UTS-FE
@@ -20,4 +8,3 @@
 8. Koko : https://github.com/Kokoparel/FilmTracker
 9. Enjel : https://github.com/enjeliaa/react-public-api-explorer
 10. Aulia: https://github.com/auliamutiaraa/Nutrition-Explorer-Midterm-exam-FE
->>>>>>> a7fa3a821709ec817088a8ad9be65967e7b08514
