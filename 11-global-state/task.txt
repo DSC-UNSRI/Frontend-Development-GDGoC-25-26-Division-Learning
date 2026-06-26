@@ -3,3 +3,4 @@ Enjel : https://github.com/enjeliaa/react-public-api-explorer
 Atala : https://github.com/AtalaaDf/Book-App-React
 Aulia : https://github.com/auliamutiaraa/Nutrition-Explorer-Midterm-exam-FE.git
 Koko : https://github.com/Kokoparel/FilmTracker
+Akbar : https://github.com/akbar-kurnia1/game-store
