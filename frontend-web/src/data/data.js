@@ -311,84 +311,86 @@ const learnings = [
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/8-side-effect-fetch-api",
   },
-// {
-//     icon: Puzzle,
-//     title: "Custom Hooks & Reusable Logic",
-//     description:
-//       "Learning materials cover abstracting asynchronous logic and component functionality into reusable Custom Hooks to separate business logic from the UI.",
-//     color: "google-blue",
-//     files:
-//       "https://drive.google.com/file/d/1L22ha6LiKuf1Bq73icfsKD8b2UKxinEO/view?usp=sharing",
-//     image: customHooks,
-//     github: "nanti-isi-sendiri",
-//   },
-//   {
-//     icon: Globe,
-//     title: "Global State Management",
-//     description:
-//       "Learning materials introduce the Context API as a solution to Props Drilling for managing globally accessible data across the application.",
-//     color: "google-red",
-//     files:
-//       "https://drive.google.com/file/d/1mpRiHZvR9ARYJfED8G9Slqry5g7Nq-oY/view?usp=sharing",
-//     image: globalState,
-//     github: "nanti-isi-sendiri",
-//   },
-//   {
-//     icon: ShieldCheck,
-//     title: "Introduction to Supabase & Auth",
-//     description:
-//       "Learning materials cover Supabase project configuration and implementing secure user authentication workflows (Login/Register) in React.",
-//     color: "google-yellow",
-//     files:
-//       "https://drive.google.com/file/d/178UqjEoqGYOaInSzFEnbrnxMrO6BNmKL/view?usp=sharing",
-//     image: supabase,
-//     github: "nanti-isi-sendiri",
-//   },
-//   {
-//     icon: CloudDownload,
-//     title: "Data Fetching with TanStack Query",
-//     description:
-//       "Learning materials cover implementing TanStack Query for efficient data fetching (Read) from Supabase, utilizing its built-in caching features.",
-//     color: "google-green",
-//     files:
-//       "https://drive.google.com/file/d/1NoLK-9EnqKBCHJ9LgfK8z4DQrd9vtagt/view?usp=sharing",
-//     image: tanstack,
-//     github: "nanti-isi-sendiri",
-//   },
-//   {
-//     icon: Database,
-//     title: "CRUD Operations & Mutations",
-//     description:
-//       "Learning materials cover Create, Update, and Delete operations using TanStack Mutations to synchronize UI states with the database.",
-//     color: "google-blue",
-//     files:
-//       "https://drive.google.com/file/d/1zDw8robcAbMtklzkENUQBb3cQ4LeqnD-/view?usp=sharing",
-//     image: crud,
-//     github: "nanti-isi-sendiri",
-//   },
-//   {
-//     icon: Boxes,
-//     title: "Complex State with Zustand",
-//     description:
-//       "Learning materials cover using Zustand as a lightweight and fast alternative for managing complex, responsive global state integrated with Supabase data.",
-//     color: "google-red",
-//     files:
-//       "https://drive.google.com/file/d/1XCuSF53MN_sQugzbGwKeHBXNMwjgI8mk/view?usp=sharing",
-//     image: zustand,
-//     github: "nanti-isi-sendiri",
-//   },
-//     {
-//     icon: icon_sesuai_materi,
-//     title: "Advanced State Patterns & Controlled Forms",
-//     description:
-//       "isi deskripsinya, buatkan dalam bahasa inggris, singkat saja, ikuti referensi data sebelumnya",
-//     color: "google-red",
-//     files:
-//       "https://drive.google.com/file/d/1fG9chCAQ881oKClXGaIxWEfy5gnsUr77/view?usp=sharing",
-//     image: form,
-//     github:
-//       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/6-controlled-form",
-//   }
+  {
+    icon: Puzzle,
+    title: "Custom Hooks & Reusable Logic",
+    description:
+      "Learning materials cover abstracting asynchronous logic and component functionality into reusable Custom Hooks to separate business logic from the UI.",
+    color: "google-blue",
+    files:
+      "https://drive.google.com/file/d/1L22ha6LiKuf1Bq73icfsKD8b2UKxinEO/view?usp=sharing",
+    image: customHooks,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/10-custom-hooks",
+  },
+  // {
+  //   icon: Globe,
+  //   title: "Global State Management",
+  //   description:
+  //     "Learning materials introduce the Context API as a solution to Props Drilling for managing globally accessible data across the application.",
+  //   color: "google-red",
+  //   files:
+  //     "https://drive.google.com/file/d/128-qLEu-yCNx4Mg4BnE6TD4sJut71FFc/view?usp=sharing",
+  //   image: globalState,
+  //   github:
+  //     "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/11-global-state",
+  // },
+  //   {
+  //     icon: ShieldCheck,
+  //     title: "Introduction to Supabase & Auth",
+  //     description:
+  //       "Learning materials cover Supabase project configuration and implementing secure user authentication workflows (Login/Register) in React.",
+  //     color: "google-yellow",
+  //     files:
+  //       "https://drive.google.com/file/d/178UqjEoqGYOaInSzFEnbrnxMrO6BNmKL/view?usp=sharing",
+  //     image: supabase,
+  //     github: "nanti-isi-sendiri",
+  //   },
+  //   {
+  //     icon: CloudDownload,
+  //     title: "Data Fetching with TanStack Query",
+  //     description:
+  //       "Learning materials cover implementing TanStack Query for efficient data fetching (Read) from Supabase, utilizing its built-in caching features.",
+  //     color: "google-green",
+  //     files:
+  //       "https://drive.google.com/file/d/1NoLK-9EnqKBCHJ9LgfK8z4DQrd9vtagt/view?usp=sharing",
+  //     image: tanstack,
+  //     github: "nanti-isi-sendiri",
+  //   },
+  //   {
+  //     icon: Database,
+  //     title: "CRUD Operations & Mutations",
+  //     description:
+  //       "Learning materials cover Create, Update, and Delete operations using TanStack Mutations to synchronize UI states with the database.",
+  //     color: "google-blue",
+  //     files:
+  //       "https://drive.google.com/file/d/1zDw8robcAbMtklzkENUQBb3cQ4LeqnD-/view?usp=sharing",
+  //     image: crud,
+  //     github: "nanti-isi-sendiri",
+  //   },
+  //   {
+  //     icon: Boxes,
+  //     title: "Complex State with Zustand",
+  //     description:
+  //       "Learning materials cover using Zustand as a lightweight and fast alternative for managing complex, responsive global state integrated with Supabase data.",
+  //     color: "google-red",
+  //     files:
+  //       "https://drive.google.com/file/d/1XCuSF53MN_sQugzbGwKeHBXNMwjgI8mk/view?usp=sharing",
+  //     image: zustand,
+  //     github: "nanti-isi-sendiri",
+  //   },
+  //     {
+  //     icon: icon_sesuai_materi,
+  //     title: "Advanced State Patterns & Controlled Forms",
+  //     description:
+  //       "isi deskripsinya, buatkan dalam bahasa inggris, singkat saja, ikuti referensi data sebelumnya",
+  //     color: "google-red",
+  //     files:
+  //       "https://drive.google.com/file/d/1fG9chCAQ881oKClXGaIxWEfy5gnsUr77/view?usp=sharing",
+  //     image: form,
+  //     github:
+  //       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/6-controlled-form",
+  //   }
 ];
 
 export { features, coreTeam, members, socialLinks, learnings };
