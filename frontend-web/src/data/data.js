@@ -323,18 +323,18 @@ const learnings = [
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/10-custom-hooks",
   },
-  // {
-  //   icon: Globe,
-  //   title: "Global State Management",
-  //   description:
-  //     "Learning materials introduce the Context API as a solution to Props Drilling for managing globally accessible data across the application.",
-  //   color: "google-red",
-  //   files:
-  //     "https://drive.google.com/file/d/128-qLEu-yCNx4Mg4BnE6TD4sJut71FFc/view?usp=sharing",
-  //   image: globalState,
-  //   github:
-  //     "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/11-global-state",
-  // },
+  {
+    icon: Globe,
+    title: "Global State Management",
+    description:
+      "Learning materials introduce the Context API as a solution to Props Drilling for managing globally accessible data across the application.",
+    color: "google-red",
+    files:
+      "https://drive.google.com/file/d/128-qLEu-yCNx4Mg4BnE6TD4sJut71FFc/view?usp=sharing",
+    image: globalState,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/11-global-state",
+  },
   //   {
   //     icon: ShieldCheck,
   //     title: "Introduction to Supabase & Auth",
