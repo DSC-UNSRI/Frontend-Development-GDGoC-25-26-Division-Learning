@@ -1,6 +1,6 @@
 1. Prisma : 
 2. Aulia: 
-3. Atala : 
+3. Atala : https://github.com/AtalaaDf/TanStack-Query
 4. Rillah : 
 5. Faiz : 
 6. Awan : 
