@@ -1,7 +1,7 @@
 1. Prisma : 
 2. Aulia: 
 3. Atala : https://github.com/AtalaaDf/TanStack-Query
-4. Rillah : 
+4. Rillah : https://github.com/SerenaaaaRN/simple-query
 5. Faiz : 
 6. Awan : 
 7. Akbar: 
