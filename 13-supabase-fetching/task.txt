@@ -1,5 +1,5 @@
 1. Prisma : 
-2. Aulia: 
+2. Aulia: https://github.com/auliamutiaraa/Nutrition-Explorer-Midterm-exam-FE.git
 3. Atala : https://github.com/AtalaaDf/TanStack-Query
 4. Rillah : 
 5. Faiz : 
