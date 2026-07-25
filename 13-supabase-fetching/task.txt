@@ -1,4 +1,4 @@
-1. Prisma : 
+1. Prisma : https://github.com/ak7prisma/game-collection
 2. Aulia: 
 3. Atala : https://github.com/AtalaaDf/TanStack-Query
 4. Rillah : 
