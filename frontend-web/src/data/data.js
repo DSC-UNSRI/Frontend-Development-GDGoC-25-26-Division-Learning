@@ -335,17 +335,18 @@ const learnings = [
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/11-global-state",
   },
-  //   {
-  //     icon: ShieldCheck,
-  //     title: "Introduction to Supabase & Auth",
-  //     description:
-  //       "Learning materials cover Supabase project configuration and implementing secure user authentication workflows (Login/Register) in React.",
-  //     color: "google-yellow",
-  //     files:
-  //       "https://drive.google.com/file/d/178UqjEoqGYOaInSzFEnbrnxMrO6BNmKL/view?usp=sharing",
-  //     image: supabase,
-  //     github: "nanti-isi-sendiri",
-  //   },
+  {
+    icon: ShieldCheck,
+    title: "Introduction to Supabase & Auth",
+    description:
+      "Learning materials cover Supabase project configuration and implementing secure user authentication workflows (Login/Register) in React.",
+    color: "google-yellow",
+    files:
+      "https://drive.google.com/file/d/178UqjEoqGYOaInSzFEnbrnxMrO6BNmKL/view?usp=sharing",
+    image: supabase,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/12-supabase-intro",
+  },
   //   {
   //     icon: CloudDownload,
   //     title: "Data Fetching with TanStack Query",
