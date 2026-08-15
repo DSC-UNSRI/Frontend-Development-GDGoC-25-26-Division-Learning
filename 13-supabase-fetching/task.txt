@@ -1,9 +1,9 @@
-1. Prisma : 
-2. Aulia: 
+1. Prisma : https://github.com/ak7prisma/game-collection
+2. Aulia: https://github.com/auliamutiaraa/Nutrition-Explorer-Midterm-exam-FE.git
 3. Atala : https://github.com/AtalaaDf/TanStack-Query
-4. Rillah : 
-5. Faiz : 
+5. Faiz : https://github.com/FaizZzhue/aura
+4. Rillah : https://github.com/SerenaaaaRN/simple-query
 6. Awan : 
-7. Akbar: 
 8. Koko : https://github.com/Kokoparel/TanStack
-9. Enjel :
+7. Akbar: https://github.com/akbar-kurnia1/around-the-sites
+9. Enjel : https://github.com/enjeliaa/react-public-api-explorer
