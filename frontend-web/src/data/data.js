@@ -1,7 +1,6 @@
 import ello from "@/assets/ello.jpeg";
 import akprisma from "@/assets/akprisma.jpg";
 import awan_cloud from "@/assets/awan_cloud.jpg";
-import deza from "@/assets/deza.jpg";
 import enjel from "@/assets/enjel.jpeg";
 import parel from "@/assets/parel.jpg";
 import atala from "@/assets/atala.jpg";
@@ -140,16 +139,6 @@ const members = [
     image: rillah,
     quote:
       "No one heard about the tree growing. But when it fell, everyone started talking about it.",
-  },
-  {
-    name: "Deza Arlian",
-    major: "Teknik Informatika",
-    batch: "24",
-    instagram: "instagram.com/dezaarl__/",
-    linkedin: "linkedin.com/in/dezaarlian/",
-    github: "github.com/dezaarlian",
-    image: deza,
-    quote: "kalo udah IZIN gapapa, atur se-Brengsek mungkin",
   },
   {
     name: "Aulia Mutiara Sari",
@@ -347,17 +336,18 @@ const learnings = [
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/12-supabase-intro",
   },
-  //   {
-  //     icon: CloudDownload,
-  //     title: "Data Fetching with TanStack Query",
-  //     description:
-  //       "Learning materials cover implementing TanStack Query for efficient data fetching (Read) from Supabase, utilizing its built-in caching features.",
-  //     color: "google-green",
-  //     files:
-  //       "https://drive.google.com/file/d/1NoLK-9EnqKBCHJ9LgfK8z4DQrd9vtagt/view?usp=sharing",
-  //     image: tanstack,
-  //     github: "nanti-isi-sendiri",
-  //   },
+  {
+    icon: CloudDownload,
+    title: "Data Fetching with TanStack Query",
+    description:
+      "Learning materials cover implementing TanStack Query for efficient data fetching (Read) from Supabase, utilizing its built-in caching features.",
+    color: "google-green",
+    files:
+      "https://drive.google.com/file/d/1NoLK-9EnqKBCHJ9LgfK8z4DQrd9vtagt/view?usp=sharing",
+    image: tanstack,
+    github:
+      "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/13-supabase-fetching",
+  },
   //   {
   //     icon: Database,
   //     title: "CRUD Operations & Mutations",
@@ -367,7 +357,7 @@ const learnings = [
   //     files:
   //       "https://drive.google.com/file/d/1zDw8robcAbMtklzkENUQBb3cQ4LeqnD-/view?usp=sharing",
   //     image: crud,
-  //     github: "nanti-isi-sendiri",
+  //     github: "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/14-supabase-crud",
   //   },
   //   {
   //     icon: Boxes,
@@ -378,19 +368,7 @@ const learnings = [
   //     files:
   //       "https://drive.google.com/file/d/1XCuSF53MN_sQugzbGwKeHBXNMwjgI8mk/view?usp=sharing",
   //     image: zustand,
-  //     github: "nanti-isi-sendiri",
-  //   },
-  //     {
-  //     icon: icon_sesuai_materi,
-  //     title: "Advanced State Patterns & Controlled Forms",
-  //     description:
-  //       "isi deskripsinya, buatkan dalam bahasa inggris, singkat saja, ikuti referensi data sebelumnya",
-  //     color: "google-red",
-  //     files:
-  //       "https://drive.google.com/file/d/1fG9chCAQ881oKClXGaIxWEfy5gnsUr77/view?usp=sharing",
-  //     image: form,
-  //     github:
-  //       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/6-controlled-form",
+  //     github: "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/15-zustand-state-management",
   //   }
 ];
 
