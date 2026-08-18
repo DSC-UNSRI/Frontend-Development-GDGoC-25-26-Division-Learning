@@ -348,17 +348,17 @@ const learnings = [
     github:
       "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/13-supabase-fetching",
   },
-  //   {
-  //     icon: Database,
-  //     title: "CRUD Operations & Mutations",
-  //     description:
-  //       "Learning materials cover Create, Update, and Delete operations using TanStack Mutations to synchronize UI states with the database.",
-  //     color: "google-blue",
-  //     files:
-  //       "https://drive.google.com/file/d/1zDw8robcAbMtklzkENUQBb3cQ4LeqnD-/view?usp=sharing",
-  //     image: crud,
-  //     github: "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/14-supabase-crud",
-  //   },
+    {
+      icon: Database,
+      title: "CRUD Operations & Mutations",
+      description:
+        "Learning materials cover Create, Update, and Delete operations using TanStack Mutations to synchronize UI states with the database.",
+      color: "google-blue",
+      files:
+        "https://drive.google.com/file/d/1zDw8robcAbMtklzkENUQBb3cQ4LeqnD-/view?usp=sharing",
+      image: crud,
+      github: "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/14-supabase-crud",
+    },
   //   {
   //     icon: Boxes,
   //     title: "Complex State with Zustand",
