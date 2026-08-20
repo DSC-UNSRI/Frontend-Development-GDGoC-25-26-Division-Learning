@@ -359,17 +359,17 @@ const learnings = [
       image: crud,
       github: "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/14-supabase-crud",
     },
-  //   {
-  //     icon: Boxes,
-  //     title: "Complex State with Zustand",
-  //     description:
-  //       "Learning materials cover using Zustand as a lightweight and fast alternative for managing complex, responsive global state integrated with Supabase data.",
-  //     color: "google-red",
-  //     files:
-  //       "https://drive.google.com/file/d/1XCuSF53MN_sQugzbGwKeHBXNMwjgI8mk/view?usp=sharing",
-  //     image: zustand,
-  //     github: "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/15-zustand-state-management",
-  //   }
+    {
+      icon: Boxes,
+      title: "Complex State with Zustand",
+      description:
+        "Learning materials cover using Zustand as a lightweight and fast alternative for managing complex, responsive global state integrated with Supabase data.",
+      color: "google-red",
+      files:
+        "https://drive.google.com/file/d/1XCuSF53MN_sQugzbGwKeHBXNMwjgI8mk/view?usp=sharing",
+      image: zustand,
+      github: "https://github.com/DSC-UNSRI/Frontend-Development-GDGoC-25-26-Division-Learning/tree/main/15-zustand-state-management",
+    }
 ];
 
 export { features, coreTeam, members, socialLinks, learnings };
